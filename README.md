@@ -23,17 +23,18 @@ Please keep it simple. If you require any additional information, please ask. We
 All tech test submissions (for any of our tech tests) are anonymised and reviewed using a standard template.
 
 At a high level we will be looking for:
-* Clear instructions for how to run the application on a reviewer's machine
+* Readability: clear naming conventions, clear documentation where necessary
 * Good understanding of the programming language and its features
-* Well structured, readable code
-* High quality code that uses relevant design patterns
-* Appropriate automated tests
-* Security best practices applied
-* Good understanding of logging and errors and how to handle them
+* Automated tests
+* Simplicity
+* Clear instructions on how to build, test & run the application using the build framework of your choice
+* Logging
+* Error handling
+* Clearly described regular commits visible through VCS
 
 ## Languages
 
-We use a mixture of coding languages but for data consumption we mainly use Java (Kotlin) and Node. For this tech test we recommend you use Java, but if you don't know either or you can show off your skills better in another language then please do so.
+We use a mixture of coding languages but for data consumption we mainly use Kotlin and a bit of Node. For this tech test we recommend you use Java or Kotlin, but if you can show off your skills better in another language then please do so and include your justification in the README.
 
 ## Timescale
 
@@ -41,10 +42,10 @@ Please time-box this exercise at about 3 hours. If you've spent more than that a
 
 ## The Deliverable
 
-Replace the contents of this README.md with:
+In the root of your application create a README.md including:
 
   1. A covering note explaining the technology choices you have made.
-  1. Any instructions required to run your solution and tests in a Linux environment.
+  2. Any instructions required to run your solution and tests in a Linux environment.
 
 Email as an attachment or a link the git bundled repository showing your commit history with all your commits on the master branch:
 
