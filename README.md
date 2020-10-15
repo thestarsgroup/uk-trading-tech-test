@@ -38,7 +38,7 @@ We use a mixture of coding languages but for data consumption we mainly use Kotl
 
 ## Timescale
 
-Please time-box this exercise at about 3 hours. If you've spent more than that and you're still not finished, just submit what you have - we're more interested in what you have done, not what you haven't, nor do we want this to take up a huge amount of your time.
+Please time-box this exercise at about 3 hours. If you've spent more than that and you're still not finished, just submit what you have - we're more interested in what you have done, not what you haven't, nor do we want this to take up a huge amount of your time. It is more important to model a subset of functionality to a higher level of quality than to model all the functionality but to a lower level of quality
 
 ## The Deliverable
 
