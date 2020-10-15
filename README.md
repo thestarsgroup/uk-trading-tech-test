@@ -33,7 +33,7 @@ At a high level we will be looking for:
 
 ## Languages
 
-We use a mixture of coding languages at The Stars Group but for data consumption we mainly use Java (Kotlin) and Node. For this tech test we recommend you use either Java or NodeJS, but if you don't know either or you can show off your skills better in another language then please do so.
+We use a mixture of coding languages but for data consumption we mainly use Java (Kotlin) and Node. For this tech test we recommend you use Java, but if you don't know either or you can show off your skills better in another language then please do so.
 
 ## Timescale
 
